@@ -35,7 +35,7 @@ function Resume() {
           </a>
         </div>
         <div className="column is-half link">
-          <a href="https://github.com/mtorcellini" target="_blank" rel="noreferrer">
+          <a href="https://github.com/dhannsamaid" target="_blank" rel="noreferrer">
             <div className="icon-text">
               <span className="icon">
                 <i className="fab fa-github-alt"></i>
@@ -110,7 +110,7 @@ function Resume() {
             <div className="tile is-parent">
               <article className="tile is-child notification is-warning is-light">
                 <div className="content">
-                  <p>Visual Studio Code / Final Cut Pro / Adobe Photoshop / Adobe Illustrator / Adobe XD</p>
+                  <p>Visual Studio Code / Adobe Photoshop / Adobe Illustrator / Adobe XD / Sketch</p>
                 </div>
               </article>
             </div>
@@ -133,8 +133,9 @@ function Resume() {
               <p className="employer">New Breed | Burlington, VT</p>
               <p className="job-title">Front End Web Developer</p>
               <ul className="details">
-                <li>Build new websites for B2B companies as part of a multi-phase approach for increasing demand-generation</li>
+                <li>Build new websites for B2B companies as part of a multi-phase approach for increasing demand-generation using the WordPress and HubSpot CMS platforms</li>
                 <li>Work with a team of strategists and designers to delight clients with sites that speak to their look and feel</li>
+                <li>Update and maintain in-house framework to be scalable, maintainable, and up to date with the latest web standards</li>
               </ul>
             </div>
 
