@@ -134,7 +134,7 @@ function Resume() {
               <p className="job-title">Front End Web Developer</p>
               <ul className="details">
                 <li>Build new websites for B2B companies as part of a multi-phase approach for increasing demand-generation</li>
-                <li>Work with a team of strategists and designers to delight clients with sites that speak to their company's look and feel</li>
+                <li>Work with a team of strategists and designers to delight clients with sites that speak to their look and feel</li>
               </ul>
             </div>
 
